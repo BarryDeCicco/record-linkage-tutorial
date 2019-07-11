@@ -1,0 +1,14 @@
+.left {
+  width: 120px; 
+  float: left;
+}
+
+.left > img {
+  width: 120px;
+}
+
+.right {
+  margin-left: 140px;
+  width: 60%;
+}
+
